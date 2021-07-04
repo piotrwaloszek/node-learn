@@ -1,0 +1,11 @@
+{
+  "name":"@piotrwaloszek/id_generator",
+  "version": "1.0.3",
+  "main": "index.js",
+  "author": "Piotr Wałoszek <piotrek.waloszek@gmail.com>",
+  "keywords": [
+    "id",
+    "generator"
+  ],
+  "license": "MIT"
+}
